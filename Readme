@@ -1,0 +1,16 @@
+SumoBot Specs:
+
+Microcontroller: ESP32
+
+Motors: 12V 580RPM 3.5 kgf.cm HP DC Gear Motor
+Motor Driver: Cytron MDD10A dual-channel 30V / 10A motor controller
+Wheels: 3mm outer diameter silicone
+
+Battery: Lipo Battery 3S 11.1V 60C RC Battery 2250 mAh
+DC Buck Converter: LM2596s
+
+Opponent Detection Sensors: Sharp GP2Y0A41SK0F Analog Distance Sensor 4-30cm
+Edge Sensors: QTR-1RC Reflectance Sensor
+
+16 AWG Wire for motor connections
+18 AWG Wire for microcontroller connections
